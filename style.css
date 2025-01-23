@@ -206,3 +206,16 @@ footer  li {
     font-size: small;
     margin-bottom: 20px;
 }
+
+
+/* Navigation Links Hover Effect */
+nav ul li a:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+/* Footer Links Hover Effect */
+.foot-elements li a:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
